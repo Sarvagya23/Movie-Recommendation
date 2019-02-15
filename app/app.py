@@ -199,10 +199,10 @@ def asubs():
         if(A[i] <= 1000 and B[i] < 500):
             P[A[i] - 1 , B[i]] = C[i]
     print(222222)
-    return redirect(url_for('b'))    
+    return redirect(url_for('bij'))    
 
-@app.route("/b" , methods = ['GET']) 
-def b():  
+@app.route("/bij" , methods = ['GET']) 
+def bij():  
     global user_mf
     global ratings
     global movies
@@ -232,10 +232,10 @@ def b():
         new_ratings[i] = rrr[i]
         user_mf = user_mf.append({'userId' :  1001 - count , 'movieId' : i , 'rating' : new_ratings[i]} , ignore_index = True)
 
-    return redirect(url_for('crene'))
+    return redirect(url_for('cres'))
 
-@app.route("/crene" , methods = ['GET'])
-def crene():
+@app.route("/cres" , methods = ['GET'])
+def cres():
     global user_mf
     global ratings
     global movies
@@ -258,10 +258,10 @@ def crene():
                 P[i,j] -= sum1/count
     print('P(new)' ,  P[993])
 
-    return redirect(url_for('d'))
+    return redirect(url_for('dief'))
 
-@app.route("/d" , methods = ['GET'])
-def d():
+@app.route("/dief" , methods = ['GET'])
+def dief():
     global user_mf
     global ratings
     global movies
@@ -316,10 +316,10 @@ def d():
            { 'title' : i }
         )
     # print(final_user_ratings1)
-    return redirect(url_for('e'))
+    return redirect(url_for('eqw'))
 
-@app.route("/e" , methods = ['GET'])
-def e():
+@app.route("/eqw" , methods = ['GET'])
+def eqw():
     global user_mf
     global ratings
     global movies
@@ -360,23 +360,29 @@ def e():
         movie_rat_1.set_value(index , 'rating' , q)
         movie_rat_1.set_value(index , 'count' , p)   
     movie_rat_1['score'] = movie_rat_1['rating']/movie_rat_1['count']
+    movie_rat_1 = movie_rat_1.sort_values(['score' , 'count'] , ascending = [False , False])
+    # movie_rat_2 = pd.DataFrame(columns=['rating','count','score'] , index=range(0,500))
+    # movie_rat_2['rating'] = 0
+    # movie_rat_2['count'] = 0
+    # movie_rat_2['score'] = 0
 
-    movie_rat_2 = pd.DataFrame(columns=['rating','count','score'] , index=range(0,500))
-    movie_rat_2['rating'] = 0
-    movie_rat_2['count'] = 0
-    movie_rat_2['score'] = 0
+    # for i in L:
+    #     for j in range(len(i)):
+    #         movie_rat_2.loc[i[j],'rating'] += movie_rat_1.loc[i[j] , 'score']
+    #         movie_rat_2.loc[i[j],'count'] += 1
+    # movie_rat_2['score'] = movie_rat_2['rating']/movie_rat_2['count']
+    # movie_rat_2 = movie_rat_2.sort_values(['count' , 'score'] , ascending = False)
 
-    for i in L:
-        for j in range(len(i)):
-            movie_rat_2.loc[i[j],'rating'] += movie_rat_1.loc[j , 'score']
-            movie_rat_2.loc[i[j],'count'] += 1
-    movie_rat_2['score'] = movie_rat_2['rating']/movie_rat_2['count']
-    movie_rat_2 = movie_rat_2.sort_values(['count' , 'score'] , ascending = False)
-
-    ans = movie_rat_2.index[:15]
+    ans = movie_rat_1.index[:30]
+    print(ans)
+    ans_ = []
+    for i in range(len(ans)):
+        if(ans[i] > 14):
+            ans_.append(ans[i])
+    ans_ = ans_[:15]
     
     answer_item_ratings = pd.DataFrame()
-    for i in ans:
+    for i in ans_:
         answer_item_ratings = answer_item_ratings.append(movies.loc[movies['movieId'] == i])
     final_user_ratings2 = (answer_item_ratings['title'])
     # print(final_user_ratings2)
@@ -385,10 +391,10 @@ def e():
            { 'title' : i }
         )
 
-    return redirect(url_for('f'))
+    return redirect(url_for('faqw'))
 
-@app.route("/f" , methods = ['GET'])
-def f():
+@app.route("/faqw" , methods = ['GET'])
+def faqw():
     global user_mf
     global ratings
     global movies
