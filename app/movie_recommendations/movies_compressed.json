@@ -1,0 +1,4501 @@
+[{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6971d"
+	},
+	"": 0,
+	"movieId": 0,
+	"title": "Pulp Fiction (1994)",
+	"genres": "Comedy|Crime|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6971e"
+	},
+	"": 1,
+	"movieId": 1,
+	"title": "Forrest Gump (1994)",
+	"genres": "Comedy|Drama|Romance|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6971f"
+	},
+	"": 2,
+	"movieId": 2,
+	"title": "Silence of the Lambs, The (1991)",
+	"genres": "Crime|Horror|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69720"
+	},
+	"": 3,
+	"movieId": 3,
+	"title": "Shawshank Redemption, The (1994)",
+	"genres": "Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69721"
+	},
+	"": 4,
+	"movieId": 4,
+	"title": "Jurassic Park (1993)",
+	"genres": "Action|Adventure|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69722"
+	},
+	"": 5,
+	"movieId": 5,
+	"title": "Star Wars: Episode IV - A New Hope (1977)",
+	"genres": "Action|Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69723"
+	},
+	"": 7,
+	"movieId": 7,
+	"title": "Terminator 2: Judgment Day (1991)",
+	"genres": "Action|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69724"
+	},
+	"": 9,
+	"movieId": 9,
+	"title": "Schindler's List (1993)",
+	"genres": "Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69725"
+	},
+	"": 10,
+	"movieId": 10,
+	"title": "Fugitive, The (1993)",
+	"genres": "Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69726"
+	},
+	"": 11,
+	"movieId": 11,
+	"title": "Toy Story (1995)",
+	"genres": "Adventure|Animation|Children|Comedy|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69727"
+	},
+	"": 12,
+	"movieId": 12,
+	"title": "Independence Day (a.k.a. ID4) (1996)",
+	"genres": "Action|Adventure|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69728"
+	},
+	"": 6,
+	"movieId": 6,
+	"title": "Braveheart (1995)",
+	"genres": "Action|Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69729"
+	},
+	"": 8,
+	"movieId": 8,
+	"title": "Matrix, The (1999)",
+	"genres": "Action|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6972a"
+	},
+	"": 14,
+	"movieId": 14,
+	"title": "Usual Suspects, The (1995)",
+	"genres": "Crime|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6972b"
+	},
+	"": 13,
+	"movieId": 13,
+	"title": "Apollo 13 (1995)",
+	"genres": "Adventure|Drama|IMAX"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6972c"
+	},
+	"": 15,
+	"movieId": 15,
+	"title": "Star Wars: Episode VI - Return of the Jedi (1983)",
+	"genres": "Action|Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6972d"
+	},
+	"": 16,
+	"movieId": 16,
+	"title": "Star Wars: Episode V - The Empire Strikes Back (1980)",
+	"genres": "Action|Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6972e"
+	},
+	"": 20,
+	"movieId": 20,
+	"title": "Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)",
+	"genres": "Action|Adventure"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6972f"
+	},
+	"": 17,
+	"movieId": 17,
+	"title": "Batman (1989)",
+	"genres": "Action|Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69730"
+	},
+	"": 18,
+	"movieId": 18,
+	"title": "American Beauty (1999)",
+	"genres": "Comedy|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69731"
+	},
+	"": 21,
+	"movieId": 21,
+	"title": "Dances with Wolves (1990)",
+	"genres": "Adventure|Drama|Western"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69732"
+	},
+	"": 19,
+	"movieId": 19,
+	"title": "Twelve Monkeys (a.k.a. 12 Monkeys) (1995)",
+	"genres": "Mystery|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69733"
+	},
+	"": 23,
+	"movieId": 23,
+	"title": "True Lies (1994)",
+	"genres": "Action|Adventure|Comedy|Romance|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69734"
+	},
+	"": 24,
+	"movieId": 24,
+	"title": "Seven (a.k.a. Se7en) (1995)",
+	"genres": "Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69735"
+	},
+	"": 22,
+	"movieId": 22,
+	"title": "Fargo (1996)",
+	"genres": "Comedy|Crime|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69736"
+	},
+	"": 25,
+	"movieId": 25,
+	"title": "Speed (1994)",
+	"genres": "Action|Romance|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69737"
+	},
+	"": 27,
+	"movieId": 27,
+	"title": "Aladdin (1992)",
+	"genres": "Adventure|Animation|Children|Comedy|Musical"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69738"
+	},
+	"": 30,
+	"movieId": 30,
+	"title": "Sixth Sense, The (1999)",
+	"genres": "Drama|Horror|Mystery"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69739"
+	},
+	"": 31,
+	"movieId": 31,
+	"title": "Mission: Impossible (1996)",
+	"genres": "Action|Adventure|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6973a"
+	},
+	"": 26,
+	"movieId": 26,
+	"title": "Back to the Future (1985)",
+	"genres": "Adventure|Comedy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6973b"
+	},
+	"": 28,
+	"movieId": 28,
+	"title": "Godfather, The (1972)",
+	"genres": "Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6973c"
+	},
+	"": 33,
+	"movieId": 33,
+	"title": "Ace Ventura: Pet Detective (1994)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6973d"
+	},
+	"": 29,
+	"movieId": 29,
+	"title": "Fight Club (1999)",
+	"genres": "Action|Crime|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6973e"
+	},
+	"": 32,
+	"movieId": 32,
+	"title": "Lion King, The (1994)",
+	"genres": "Adventure|Animation|Children|Drama|Musical|IMAX"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6973f"
+	},
+	"": 37,
+	"movieId": 37,
+	"title": "Mask, The (1994)",
+	"genres": "Action|Comedy|Crime|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69740"
+	},
+	"": 35,
+	"movieId": 35,
+	"title": "Saving Private Ryan (1998)",
+	"genres": "Action|Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69741"
+	},
+	"": 38,
+	"movieId": 38,
+	"title": "Die Hard: With a Vengeance (1995)",
+	"genres": "Action|Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69742"
+	},
+	"": 39,
+	"movieId": 39,
+	"title": "Pretty Woman (1990)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69743"
+	},
+	"": 40,
+	"movieId": 40,
+	"title": "Beauty and the Beast (1991)",
+	"genres": "Animation|Children|Fantasy|Musical|Romance|IMAX"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69744"
+	},
+	"": 41,
+	"movieId": 41,
+	"title": "Mrs. Doubtfire (1993)",
+	"genres": "Comedy|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69745"
+	},
+	"": 42,
+	"movieId": 42,
+	"title": "Terminator, The (1984)",
+	"genres": "Action|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69746"
+	},
+	"": 36,
+	"movieId": 36,
+	"title": "Men in Black (a.k.a. MIB) (1997)",
+	"genres": "Action|Comedy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69747"
+	},
+	"": 34,
+	"movieId": 34,
+	"title": "Lord of the Rings: The Fellowship of the Ring, The (2001)",
+	"genres": "Adventure|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69748"
+	},
+	"": 43,
+	"movieId": 43,
+	"title": "Lord of the Rings: The Two Towers, The (2002)",
+	"genres": "Adventure|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69749"
+	},
+	"": 44,
+	"movieId": 44,
+	"title": "Gladiator (2000)",
+	"genres": "Action|Adventure|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6974a"
+	},
+	"": 45,
+	"movieId": 45,
+	"title": "Twister (1996)",
+	"genres": "Action|Adventure|Romance|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6974b"
+	},
+	"": 46,
+	"movieId": 46,
+	"title": "Titanic (1997)",
+	"genres": "Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6974c"
+	},
+	"": 47,
+	"movieId": 47,
+	"title": "Monty Python and the Holy Grail (1975)",
+	"genres": "Adventure|Comedy|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6974d"
+	},
+	"": 48,
+	"movieId": 48,
+	"title": "Princess Bride, The (1987)",
+	"genres": "Action|Adventure|Comedy|Fantasy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6974e"
+	},
+	"": 49,
+	"movieId": 49,
+	"title": "Batman Forever (1995)",
+	"genres": "Action|Adventure|Comedy|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6974f"
+	},
+	"": 51,
+	"movieId": 51,
+	"title": "Stargate (1994)",
+	"genres": "Action|Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69750"
+	},
+	"": 50,
+	"movieId": 50,
+	"title": "Dumb \u0026 Dumber (Dumb and Dumber) (1994)",
+	"genres": "Adventure|Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69751"
+	},
+	"": 52,
+	"movieId": 52,
+	"title": "Shrek (2001)",
+	"genres": "Adventure|Animation|Children|Comedy|Fantasy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69752"
+	},
+	"": 54,
+	"movieId": 54,
+	"title": "Groundhog Day (1993)",
+	"genres": "Comedy|Fantasy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69753"
+	},
+	"": 53,
+	"movieId": 53,
+	"title": "Babe (1995)",
+	"genres": "Children|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69754"
+	},
+	"": 55,
+	"movieId": 55,
+	"title": "E.T. the Extra-Terrestrial (1982)",
+	"genres": "Children|Drama|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69755"
+	},
+	"": 57,
+	"movieId": 57,
+	"title": "Die Hard (1988)",
+	"genres": "Action|Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69756"
+	},
+	"": 59,
+	"movieId": 59,
+	"title": "Alien (1979)",
+	"genres": "Horror|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69757"
+	},
+	"": 60,
+	"movieId": 60,
+	"title": "Lord of the Rings: The Return of the King, The (2003)",
+	"genres": "Action|Adventure|Drama|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69758"
+	},
+	"": 61,
+	"movieId": 61,
+	"title": "Blade Runner (1982)",
+	"genres": "Action|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69759"
+	},
+	"": 62,
+	"movieId": 62,
+	"title": "Memento (2000)",
+	"genres": "Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6975a"
+	},
+	"": 63,
+	"movieId": 63,
+	"title": "Star Wars: Episode I - The Phantom Menace (1999)",
+	"genres": "Action|Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6975b"
+	},
+	"": 58,
+	"movieId": 58,
+	"title": "Rock, The (1996)",
+	"genres": "Action|Adventure|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6975c"
+	},
+	"": 56,
+	"movieId": 56,
+	"title": "Indiana Jones and the Last Crusade (1989)",
+	"genres": "Action|Adventure"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6975d"
+	},
+	"": 64,
+	"movieId": 64,
+	"title": "GoldenEye (1995)",
+	"genres": "Action|Adventure|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6975e"
+	},
+	"": 68,
+	"movieId": 68,
+	"title": "One Flew Over the Cuckoo's Nest (1975)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6975f"
+	},
+	"": 66,
+	"movieId": 66,
+	"title": "Ghost (1990)",
+	"genres": "Comedy|Drama|Fantasy|Romance|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69760"
+	},
+	"": 69,
+	"movieId": 69,
+	"title": "Clear and Present Danger (1994)",
+	"genres": "Action|Crime|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69761"
+	},
+	"": 70,
+	"movieId": 70,
+	"title": "Sleepless in Seattle (1993)",
+	"genres": "Comedy|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69762"
+	},
+	"": 67,
+	"movieId": 67,
+	"title": "Fifth Element, The (1997)",
+	"genres": "Action|Adventure|Comedy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69763"
+	},
+	"": 65,
+	"movieId": 65,
+	"title": "Ghostbusters (a.k.a. Ghost Busters) (1984)",
+	"genres": "Action|Comedy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69764"
+	},
+	"": 74,
+	"movieId": 74,
+	"title": "Four Weddings and a Funeral (1994)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69765"
+	},
+	"": 75,
+	"movieId": 75,
+	"title": "Interview with the Vampire: The Vampire Chronicles (1994)",
+	"genres": "Drama|Horror"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69766"
+	},
+	"": 76,
+	"movieId": 76,
+	"title": "Aliens (1986)",
+	"genres": "Action|Adventure|Horror|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69767"
+	},
+	"": 77,
+	"movieId": 77,
+	"title": "Clueless (1995)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69768"
+	},
+	"": 78,
+	"movieId": 78,
+	"title": "Waterworld (1995)",
+	"genres": "Action|Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69769"
+	},
+	"": 79,
+	"movieId": 79,
+	"title": "Being John Malkovich (1999)",
+	"genres": "Comedy|Drama|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6976a"
+	},
+	"": 72,
+	"movieId": 72,
+	"title": "Home Alone (1990)",
+	"genres": "Children|Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6976b"
+	},
+	"": 81,
+	"movieId": 81,
+	"title": "Godfather: Part II, The (1974)",
+	"genres": "Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6976c"
+	},
+	"": 82,
+	"movieId": 82,
+	"title": "Star Trek: Generations (1994)",
+	"genres": "Adventure|Drama|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6976d"
+	},
+	"": 71,
+	"movieId": 71,
+	"title": "Willy Wonka \u0026 the Chocolate Factory (1971)",
+	"genres": "Children|Comedy|Fantasy|Musical"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6976e"
+	},
+	"": 73,
+	"movieId": 73,
+	"title": "Good Will Hunting (1997)",
+	"genres": "Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6976f"
+	},
+	"": 80,
+	"movieId": 80,
+	"title": "X-Men (2000)",
+	"genres": "Action|Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69770"
+	},
+	"": 84,
+	"movieId": 84,
+	"title": "L.A. Confidential (1997)",
+	"genres": "Crime|Film-Noir|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69771"
+	},
+	"": 86,
+	"movieId": 86,
+	"title": "Goodfellas (1990)",
+	"genres": "Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69772"
+	},
+	"": 85,
+	"movieId": 85,
+	"title": "Outbreak (1995)",
+	"genres": "Action|Drama|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69773"
+	},
+	"": 87,
+	"movieId": 87,
+	"title": "Léon: The Professional (a.k.a. The Professional) (Léon) (1994)",
+	"genres": "Action|Crime|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69774"
+	},
+	"": 89,
+	"movieId": 89,
+	"title": "2001: A Space Odyssey (1968)",
+	"genres": "Adventure|Drama|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69775"
+	},
+	"": 88,
+	"movieId": 88,
+	"title": "Firm, The (1993)",
+	"genres": "Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69776"
+	},
+	"": 91,
+	"movieId": 91,
+	"title": "Shakespeare in Love (1998)",
+	"genres": "Comedy|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69777"
+	},
+	"": 90,
+	"movieId": 90,
+	"title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+	"genres": "Action|Adventure|Comedy|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69778"
+	},
+	"": 83,
+	"movieId": 83,
+	"title": "Reservoir Dogs (1992)",
+	"genres": "Crime|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69779"
+	},
+	"": 92,
+	"movieId": 92,
+	"title": "Clockwork Orange, A (1971)",
+	"genres": "Crime|Drama|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6977a"
+	},
+	"": 93,
+	"movieId": 93,
+	"title": "Austin Powers: The Spy Who Shagged Me (1999)",
+	"genres": "Action|Adventure|Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6977b"
+	},
+	"": 94,
+	"movieId": 94,
+	"title": "Net, The (1995)",
+	"genres": "Action|Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6977c"
+	},
+	"": 96,
+	"movieId": 96,
+	"title": "There's Something About Mary (1998)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6977d"
+	},
+	"": 99,
+	"movieId": 99,
+	"title": "Rain Man (1988)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6977e"
+	},
+	"": 95,
+	"movieId": 95,
+	"title": "Cliffhanger (1993)",
+	"genres": "Action|Adventure|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6977f"
+	},
+	"": 101,
+	"movieId": 101,
+	"title": "American Pie (1999)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69780"
+	},
+	"": 98,
+	"movieId": 98,
+	"title": "Casablanca (1942)",
+	"genres": "Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69781"
+	},
+	"": 103,
+	"movieId": 103,
+	"title": "Ocean's Eleven (2001)",
+	"genres": "Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69782"
+	},
+	"": 97,
+	"movieId": 97,
+	"title": "Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",
+	"genres": "Action|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69783"
+	},
+	"": 105,
+	"movieId": 105,
+	"title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+	"genres": "Comedy|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69784"
+	},
+	"": 106,
+	"movieId": 106,
+	"title": "Clerks (1994)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69785"
+	},
+	"": 102,
+	"movieId": 102,
+	"title": "Monsters, Inc. (2001)",
+	"genres": "Adventure|Animation|Children|Comedy|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69786"
+	},
+	"": 100,
+	"movieId": 100,
+	"title": "Truman Show, The (1998)",
+	"genres": "Comedy|Drama|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69787"
+	},
+	"": 104,
+	"movieId": 104,
+	"title": "Heat (1995)",
+	"genres": "Action|Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69788"
+	},
+	"": 107,
+	"movieId": 107,
+	"title": "Spider-Man (2002)",
+	"genres": "Action|Adventure|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69789"
+	},
+	"": 108,
+	"movieId": 108,
+	"title": "Taxi Driver (1976)",
+	"genres": "Crime|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6978a"
+	},
+	"": 110,
+	"movieId": 110,
+	"title": "Minority Report (2002)",
+	"genres": "Action|Crime|Mystery|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6978b"
+	},
+	"": 109,
+	"movieId": 109,
+	"title": "Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6978c"
+	},
+	"": 113,
+	"movieId": 113,
+	"title": "Shining, The (1980)",
+	"genres": "Horror"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6978d"
+	},
+	"": 114,
+	"movieId": 114,
+	"title": "Wizard of Oz, The (1939)",
+	"genres": "Adventure|Children|Fantasy|Musical"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6978e"
+	},
+	"": 115,
+	"movieId": 115,
+	"title": "Natural Born Killers (1994)",
+	"genres": "Action|Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6978f"
+	},
+	"": 111,
+	"movieId": 111,
+	"title": "Get Shorty (1995)",
+	"genres": "Comedy|Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69790"
+	},
+	"": 112,
+	"movieId": 112,
+	"title": "While You Were Sleeping (1995)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69791"
+	},
+	"": 116,
+	"movieId": 116,
+	"title": "Finding Nemo (2003)",
+	"genres": "Adventure|Animation|Children|Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69792"
+	},
+	"": 120,
+	"movieId": 120,
+	"title": "Crimson Tide (1995)",
+	"genres": "Drama|Thriller|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69793"
+	},
+	"": 121,
+	"movieId": 121,
+	"title": "American History X (1998)",
+	"genres": "Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69794"
+	},
+	"": 122,
+	"movieId": 122,
+	"title": "Eternal Sunshine of the Spotless Mind (2004)",
+	"genres": "Drama|Romance|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69795"
+	},
+	"": 123,
+	"movieId": 123,
+	"title": "Beautiful Mind, A (2001)",
+	"genres": "Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69796"
+	},
+	"": 124,
+	"movieId": 124,
+	"title": "Jerry Maguire (1996)",
+	"genres": "Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69797"
+	},
+	"": 119,
+	"movieId": 119,
+	"title": "Ferris Bueller's Day Off (1986)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69798"
+	},
+	"": 118,
+	"movieId": 118,
+	"title": "Apocalypse Now (1979)",
+	"genres": "Action|Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69799"
+	},
+	"": 117,
+	"movieId": 117,
+	"title": "Trainspotting (1996)",
+	"genres": "Comedy|Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6979a"
+	},
+	"": 125,
+	"movieId": 125,
+	"title": "Austin Powers: International Man of Mystery (1997)",
+	"genres": "Action|Adventure|Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6979b"
+	},
+	"": 127,
+	"movieId": 127,
+	"title": "Jumanji (1995)",
+	"genres": "Adventure|Children|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6979c"
+	},
+	"": 126,
+	"movieId": 126,
+	"title": "Toy Story 2 (1999)",
+	"genres": "Adventure|Animation|Children|Comedy|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6979d"
+	},
+	"": 129,
+	"movieId": 129,
+	"title": "Kill Bill: Vol. 1 (2003)",
+	"genres": "Action|Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6979e"
+	},
+	"": 130,
+	"movieId": 130,
+	"title": "As Good as It Gets (1997)",
+	"genres": "Comedy|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6979f"
+	},
+	"": 131,
+	"movieId": 131,
+	"title": "Full Metal Jacket (1987)",
+	"genres": "Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697a0"
+	},
+	"": 128,
+	"movieId": 128,
+	"title": "Broken Arrow (1996)",
+	"genres": "Action|Adventure|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697a1"
+	},
+	"": 132,
+	"movieId": 132,
+	"title": "When Harry Met Sally... (1989)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697a2"
+	},
+	"": 133,
+	"movieId": 133,
+	"title": "Jaws (1975)",
+	"genres": "Action|Horror"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697a3"
+	},
+	"": 134,
+	"movieId": 134,
+	"title": "Indiana Jones and the Temple of Doom (1984)",
+	"genres": "Action|Adventure|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697a4"
+	},
+	"": 136,
+	"movieId": 136,
+	"title": "Who Framed Roger Rabbit? (1988)",
+	"genres": "Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697a5"
+	},
+	"": 139,
+	"movieId": 139,
+	"title": "Edward Scissorhands (1990)",
+	"genres": "Drama|Fantasy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697a6"
+	},
+	"": 140,
+	"movieId": 140,
+	"title": "Breakfast Club, The (1985)",
+	"genres": "Comedy|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697a7"
+	},
+	"": 141,
+	"movieId": 141,
+	"title": "Big Lebowski, The (1998)",
+	"genres": "Comedy|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697a8"
+	},
+	"": 142,
+	"movieId": 142,
+	"title": "Sense and Sensibility (1995)",
+	"genres": "Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697a9"
+	},
+	"": 135,
+	"movieId": 135,
+	"title": "Armageddon (1998)",
+	"genres": "Action|Romance|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697aa"
+	},
+	"": 144,
+	"movieId": 144,
+	"title": "Ace Ventura: When Nature Calls (1995)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697ab"
+	},
+	"": 138,
+	"movieId": 138,
+	"title": "Hunt for Red October, The (1990)",
+	"genres": "Action|Adventure|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697ac"
+	},
+	"": 146,
+	"movieId": 146,
+	"title": "Top Gun (1986)",
+	"genres": "Action|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697ad"
+	},
+	"": 147,
+	"movieId": 147,
+	"title": "Stand by Me (1986)",
+	"genres": "Adventure|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697ae"
+	},
+	"": 148,
+	"movieId": 148,
+	"title": "Dead Poets Society (1989)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697af"
+	},
+	"": 149,
+	"movieId": 149,
+	"title": "Bourne Identity, The (2002)",
+	"genres": "Action|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697b0"
+	},
+	"": 145,
+	"movieId": 145,
+	"title": "Leaving Las Vegas (1995)",
+	"genres": "Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697b1"
+	},
+	"": 150,
+	"movieId": 150,
+	"title": "Dead Man Walking (1995)",
+	"genres": "Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697b2"
+	},
+	"": 143,
+	"movieId": 143,
+	"title": "Monty Python's Life of Brian (1979)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697b3"
+	},
+	"": 137,
+	"movieId": 137,
+	"title": "Birdcage, The (1996)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697b4"
+	},
+	"": 152,
+	"movieId": 152,
+	"title": "Bug's Life, A (1998)",
+	"genres": "Adventure|Animation|Children|Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697b5"
+	},
+	"": 155,
+	"movieId": 155,
+	"title": "Nightmare Before Christmas, The (1993)",
+	"genres": "Animation|Children|Fantasy|Musical"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697b6"
+	},
+	"": 156,
+	"movieId": 156,
+	"title": "Office Space (1999)",
+	"genres": "Comedy|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697b7"
+	},
+	"": 151,
+	"movieId": 151,
+	"title": "Total Recall (1990)",
+	"genres": "Action|Adventure|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697b8"
+	},
+	"": 158,
+	"movieId": 158,
+	"title": "Back to the Future Part III (1990)",
+	"genres": "Adventure|Comedy|Sci-Fi|Western"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697b9"
+	},
+	"": 154,
+	"movieId": 154,
+	"title": "Quiz Show (1994)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697ba"
+	},
+	"": 160,
+	"movieId": 160,
+	"title": "Blair Witch Project, The (1999)",
+	"genres": "Drama|Horror|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697bb"
+	},
+	"": 153,
+	"movieId": 153,
+	"title": "Green Mile, The (1999)",
+	"genres": "Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697bc"
+	},
+	"": 162,
+	"movieId": 162,
+	"title": "Contact (1997)",
+	"genres": "Drama|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697bd"
+	},
+	"": 159,
+	"movieId": 159,
+	"title": "Beetlejuice (1988)",
+	"genres": "Comedy|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697be"
+	},
+	"": 164,
+	"movieId": 164,
+	"title": "Cast Away (2000)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697bf"
+	},
+	"": 161,
+	"movieId": 161,
+	"title": "O Brother, Where Art Thou? (2000)",
+	"genres": "Adventure|Comedy|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697c0"
+	},
+	"": 165,
+	"movieId": 165,
+	"title": "Fish Called Wanda, A (1988)",
+	"genres": "Comedy|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697c1"
+	},
+	"": 167,
+	"movieId": 167,
+	"title": "Psycho (1960)",
+	"genres": "Crime|Horror"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697c2"
+	},
+	"": 157,
+	"movieId": 157,
+	"title": "Incredibles, The (2004)",
+	"genres": "Action|Adventure|Animation|Children|Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697c3"
+	},
+	"": 168,
+	"movieId": 168,
+	"title": "Dark Knight, The (2008)",
+	"genres": "Action|Crime|Drama|IMAX"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697c4"
+	},
+	"": 166,
+	"movieId": 166,
+	"title": "Mr. Holland's Opus (1995)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697c5"
+	},
+	"": 171,
+	"movieId": 171,
+	"title": "Star Trek: First Contact (1996)",
+	"genres": "Action|Adventure|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697c6"
+	},
+	"": 172,
+	"movieId": 172,
+	"title": "Nutty Professor, The (1996)",
+	"genres": "Comedy|Fantasy|Romance|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697c7"
+	},
+	"": 173,
+	"movieId": 173,
+	"title": "Blues Brothers, The (1980)",
+	"genres": "Action|Comedy|Musical"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697c8"
+	},
+	"": 174,
+	"movieId": 174,
+	"title": "Face/Off (1997)",
+	"genres": "Action|Crime|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697c9"
+	},
+	"": 175,
+	"movieId": 175,
+	"title": "Back to the Future Part II (1989)",
+	"genres": "Adventure|Comedy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697ca"
+	},
+	"": 176,
+	"movieId": 176,
+	"title": "Kill Bill: Vol. 2 (2004)",
+	"genres": "Action|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697cb"
+	},
+	"": 169,
+	"movieId": 169,
+	"title": "Big (1988)",
+	"genres": "Comedy|Drama|Fantasy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697cc"
+	},
+	"": 163,
+	"movieId": 163,
+	"title": "Amadeus (1984)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697cd"
+	},
+	"": 170,
+	"movieId": 170,
+	"title": "Dave (1993)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697ce"
+	},
+	"": 178,
+	"movieId": 178,
+	"title": "Happy Gilmore (1996)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697cf"
+	},
+	"": 181,
+	"movieId": 181,
+	"title": "Life Is Beautiful (La Vita è bella) (1997)",
+	"genres": "Comedy|Drama|Romance|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697d0"
+	},
+	"": 177,
+	"movieId": 177,
+	"title": "Gattaca (1997)",
+	"genres": "Drama|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697d1"
+	},
+	"": 183,
+	"movieId": 183,
+	"title": "Almost Famous (2000)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697d2"
+	},
+	"": 184,
+	"movieId": 184,
+	"title": "Casino (1995)",
+	"genres": "Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697d3"
+	},
+	"": 185,
+	"movieId": 185,
+	"title": "In the Line of Fire (1993)",
+	"genres": "Action|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697d4"
+	},
+	"": 180,
+	"movieId": 180,
+	"title": "Philadelphia (1993)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697d5"
+	},
+	"": 187,
+	"movieId": 187,
+	"title": "Catch Me If You Can (2002)",
+	"genres": "Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697d6"
+	},
+	"": 188,
+	"movieId": 188,
+	"title": "Airplane! (1980)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697d7"
+	},
+	"": 179,
+	"movieId": 179,
+	"title": "Batman Begins (2005)",
+	"genres": "Action|Crime|IMAX"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697d8"
+	},
+	"": 186,
+	"movieId": 186,
+	"title": "Donnie Darko (2001)",
+	"genres": "Drama|Mystery|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697d9"
+	},
+	"": 182,
+	"movieId": 182,
+	"title": "Demolition Man (1993)",
+	"genres": "Action|Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697da"
+	},
+	"": 189,
+	"movieId": 189,
+	"title": "Snow White and the Seven Dwarfs (1937)",
+	"genres": "Animation|Children|Drama|Fantasy|Musical"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697db"
+	},
+	"": 190,
+	"movieId": 190,
+	"title": "Abyss, The (1989)",
+	"genres": "Action|Adventure|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697dc"
+	},
+	"": 191,
+	"movieId": 191,
+	"title": "Maverick (1994)",
+	"genres": "Adventure|Comedy|Western"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697dd"
+	},
+	"": 192,
+	"movieId": 192,
+	"title": "Rear Window (1954)",
+	"genres": "Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697de"
+	},
+	"": 193,
+	"movieId": 193,
+	"title": "What's Eating Gilbert Grape (1993)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697df"
+	},
+	"": 194,
+	"movieId": 194,
+	"title": "Citizen Kane (1941)",
+	"genres": "Drama|Mystery"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697e0"
+	},
+	"": 195,
+	"movieId": 195,
+	"title": "Matrix Reloaded, The (2003)",
+	"genres": "Action|Adventure|Sci-Fi|Thriller|IMAX"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697e1"
+	},
+	"": 196,
+	"movieId": 196,
+	"title": "Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)",
+	"genres": "Adventure|Children|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697e2"
+	},
+	"": 199,
+	"movieId": 199,
+	"title": "Mars Attacks! (1996)",
+	"genres": "Action|Comedy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697e3"
+	},
+	"": 200,
+	"movieId": 200,
+	"title": "South Park: Bigger, Longer and Uncut (1999)",
+	"genres": "Animation|Comedy|Musical"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697e4"
+	},
+	"": 201,
+	"movieId": 201,
+	"title": "Mummy, The (1999)",
+	"genres": "Action|Adventure|Comedy|Fantasy|Horror|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697e5"
+	},
+	"": 202,
+	"movieId": 202,
+	"title": "Honey, I Shrunk the Kids (1989)",
+	"genres": "Adventure|Children|Comedy|Fantasy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697e6"
+	},
+	"": 197,
+	"movieId": 197,
+	"title": "Addams Family Values (1993)",
+	"genres": "Children|Comedy|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697e7"
+	},
+	"": 198,
+	"movieId": 198,
+	"title": "Graduate, The (1967)",
+	"genres": "Comedy|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697e8"
+	},
+	"": 203,
+	"movieId": 203,
+	"title": "Snatch (2000)",
+	"genres": "Comedy|Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697e9"
+	},
+	"": 204,
+	"movieId": 204,
+	"title": "American President, The (1995)",
+	"genres": "Comedy|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697ea"
+	},
+	"": 205,
+	"movieId": 205,
+	"title": "Star Wars: Episode II - Attack of the Clones (2002)",
+	"genres": "Action|Adventure|Sci-Fi|IMAX"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697eb"
+	},
+	"": 206,
+	"movieId": 206,
+	"title": "Liar Liar (1997)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697ec"
+	},
+	"": 209,
+	"movieId": 209,
+	"title": "Scream (1996)",
+	"genres": "Comedy|Horror|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697ed"
+	},
+	"": 208,
+	"movieId": 208,
+	"title": "Lethal Weapon (1987)",
+	"genres": "Action|Comedy|Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697ee"
+	},
+	"": 211,
+	"movieId": 211,
+	"title": "Traffic (2000)",
+	"genres": "Crime|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697ef"
+	},
+	"": 213,
+	"movieId": 213,
+	"title": "This Is Spinal Tap (1984)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697f0"
+	},
+	"": 212,
+	"movieId": 212,
+	"title": "Mission: Impossible II (2000)",
+	"genres": "Action|Adventure|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697f1"
+	},
+	"": 214,
+	"movieId": 214,
+	"title": "Spider-Man 2 (2004)",
+	"genres": "Action|Adventure|Sci-Fi|IMAX"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697f2"
+	},
+	"": 215,
+	"movieId": 215,
+	"title": "Run Lola Run (Lola rennt) (1998)",
+	"genres": "Action|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697f3"
+	},
+	"": 207,
+	"movieId": 207,
+	"title": "Piano, The (1993)",
+	"genres": "Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697f4"
+	},
+	"": 210,
+	"movieId": 210,
+	"title": "Crow, The (1994)",
+	"genres": "Action|Crime|Fantasy|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697f5"
+	},
+	"": 216,
+	"movieId": 216,
+	"title": "Grease (1978)",
+	"genres": "Comedy|Musical|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697f6"
+	},
+	"": 217,
+	"movieId": 217,
+	"title": "Ed Wood (1994)",
+	"genres": "Comedy|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697f7"
+	},
+	"": 221,
+	"movieId": 221,
+	"title": "Client, The (1994)",
+	"genres": "Drama|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697f8"
+	},
+	"": 222,
+	"movieId": 222,
+	"title": "Die Hard 2 (1990)",
+	"genres": "Action|Adventure|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697f9"
+	},
+	"": 218,
+	"movieId": 218,
+	"title": "Butch Cassidy and the Sundance Kid (1969)",
+	"genres": "Action|Western"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697fa"
+	},
+	"": 219,
+	"movieId": 219,
+	"title": "Dogma (1999)",
+	"genres": "Adventure|Comedy|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697fb"
+	},
+	"": 223,
+	"movieId": 223,
+	"title": "Chicken Run (2000)",
+	"genres": "Animation|Children|Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697fc"
+	},
+	"": 226,
+	"movieId": 226,
+	"title": "X2: X-Men United (2003)",
+	"genres": "Action|Adventure|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697fd"
+	},
+	"": 224,
+	"movieId": 224,
+	"title": "Santa Clause, The (1994)",
+	"genres": "Comedy|Drama|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697fe"
+	},
+	"": 225,
+	"movieId": 225,
+	"title": "Erin Brockovich (2000)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c697ff"
+	},
+	"": 220,
+	"movieId": 220,
+	"title": "Sin City (2005)",
+	"genres": "Action|Crime|Film-Noir|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69800"
+	},
+	"": 228,
+	"movieId": 228,
+	"title": "Starship Troopers (1997)",
+	"genres": "Action|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69801"
+	},
+	"": 231,
+	"movieId": 231,
+	"title": "Eraser (1996)",
+	"genres": "Action|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69802"
+	},
+	"": 232,
+	"movieId": 232,
+	"title": "Raising Arizona (1987)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69803"
+	},
+	"": 233,
+	"movieId": 233,
+	"title": "Truth About Cats \u0026 Dogs, The (1996)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69804"
+	},
+	"": 234,
+	"movieId": 234,
+	"title": "Charlie's Angels (2000)",
+	"genres": "Action|Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69805"
+	},
+	"": 227,
+	"movieId": 227,
+	"title": "Lost in Translation (2003)",
+	"genres": "Comedy|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69806"
+	},
+	"": 236,
+	"movieId": 236,
+	"title": "North by Northwest (1959)",
+	"genres": "Action|Adventure|Mystery|Romance|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69807"
+	},
+	"": 237,
+	"movieId": 237,
+	"title": "Star Trek II: The Wrath of Khan (1982)",
+	"genres": "Action|Adventure|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69808"
+	},
+	"": 238,
+	"movieId": 238,
+	"title": "Platoon (1986)",
+	"genres": "Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69809"
+	},
+	"": 230,
+	"movieId": 230,
+	"title": "High Fidelity (2000)",
+	"genres": "Comedy|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6980a"
+	},
+	"": 240,
+	"movieId": 240,
+	"title": "Meet the Parents (2000)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6980b"
+	},
+	"": 241,
+	"movieId": 241,
+	"title": "Young Frankenstein (1974)",
+	"genres": "Comedy|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6980c"
+	},
+	"": 239,
+	"movieId": 239,
+	"title": "True Romance (1993)",
+	"genres": "Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6980d"
+	},
+	"": 235,
+	"movieId": 235,
+	"title": "Full Monty, The (1997)",
+	"genres": "Comedy|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6980e"
+	},
+	"": 243,
+	"movieId": 243,
+	"title": "Game, The (1997)",
+	"genres": "Drama|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6980f"
+	},
+	"": 229,
+	"movieId": 229,
+	"title": "Annie Hall (1977)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69810"
+	},
+	"": 246,
+	"movieId": 246,
+	"title": "Wallace \u0026 Gromit: The Wrong Trousers (1993)",
+	"genres": "Animation|Children|Comedy|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69811"
+	},
+	"": 247,
+	"movieId": 247,
+	"title": "Congo (1995)",
+	"genres": "Action|Adventure|Mystery|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69812"
+	},
+	"": 248,
+	"movieId": 248,
+	"title": "Cable Guy, The (1996)",
+	"genres": "Comedy|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69813"
+	},
+	"": 249,
+	"movieId": 249,
+	"title": "English Patient, The (1996)",
+	"genres": "Drama|Romance|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69814"
+	},
+	"": 250,
+	"movieId": 250,
+	"title": "Judge Dredd (1995)",
+	"genres": "Action|Crime|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69815"
+	},
+	"": 251,
+	"movieId": 251,
+	"title": "Sting, The (1973)",
+	"genres": "Comedy|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69816"
+	},
+	"": 242,
+	"movieId": 242,
+	"title": "Chinatown (1974)",
+	"genres": "Crime|Film-Noir|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69817"
+	},
+	"": 253,
+	"movieId": 253,
+	"title": "Predator (1987)",
+	"genres": "Action|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69818"
+	},
+	"": 244,
+	"movieId": 244,
+	"title": "Lock, Stock \u0026 Two Smoking Barrels (1998)",
+	"genres": "Comedy|Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69819"
+	},
+	"": 245,
+	"movieId": 245,
+	"title": "Legends of the Fall (1994)",
+	"genres": "Drama|Romance|War|Western"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6981a"
+	},
+	"": 254,
+	"movieId": 254,
+	"title": "Eyes Wide Shut (1999)",
+	"genres": "Drama|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6981b"
+	},
+	"": 255,
+	"movieId": 255,
+	"title": "Shrek 2 (2004)",
+	"genres": "Adventure|Animation|Children|Comedy|Musical|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6981c"
+	},
+	"": 256,
+	"movieId": 256,
+	"title": "Grosse Pointe Blank (1997)",
+	"genres": "Comedy|Crime|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6981d"
+	},
+	"": 259,
+	"movieId": 259,
+	"title": "Dragonheart (1996)",
+	"genres": "Action|Adventure|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6981e"
+	},
+	"": 260,
+	"movieId": 260,
+	"title": "Superman (1978)",
+	"genres": "Action|Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6981f"
+	},
+	"": 261,
+	"movieId": 261,
+	"title": "Few Good Men, A (1992)",
+	"genres": "Crime|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69820"
+	},
+	"": 262,
+	"movieId": 262,
+	"title": "Lost World: Jurassic Park, The (1997)",
+	"genres": "Action|Adventure|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69821"
+	},
+	"": 263,
+	"movieId": 263,
+	"title": "Much Ado About Nothing (1993)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69822"
+	},
+	"": 264,
+	"movieId": 264,
+	"title": "Enemy of the State (1998)",
+	"genres": "Action|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69823"
+	},
+	"": 257,
+	"movieId": 257,
+	"title": "Tombstone (1993)",
+	"genres": "Action|Drama|Western"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69824"
+	},
+	"": 252,
+	"movieId": 252,
+	"title": "Untouchables, The (1987)",
+	"genres": "Action|Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69825"
+	},
+	"": 258,
+	"movieId": 258,
+	"title": "Robin Hood: Men in Tights (1993)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69826"
+	},
+	"": 266,
+	"movieId": 266,
+	"title": "Unforgiven (1992)",
+	"genres": "Drama|Western"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69827"
+	},
+	"": 267,
+	"movieId": 267,
+	"title": "To Kill a Mockingbird (1962)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69828"
+	},
+	"": 268,
+	"movieId": 268,
+	"title": "Naked Gun 33 1/3: The Final Insult (1994)",
+	"genres": "Action|Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69829"
+	},
+	"": 270,
+	"movieId": 270,
+	"title": "Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",
+	"genres": "Action|Adventure|Western"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6982a"
+	},
+	"": 269,
+	"movieId": 269,
+	"title": "Gone with the Wind (1939)",
+	"genres": "Drama|Romance|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6982b"
+	},
+	"": 271,
+	"movieId": 271,
+	"title": "Little Mermaid, The (1989)",
+	"genres": "Animation|Children|Comedy|Musical|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6982c"
+	},
+	"": 272,
+	"movieId": 272,
+	"title": "Brazil (1985)",
+	"genres": "Fantasy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6982d"
+	},
+	"": 273,
+	"movieId": 273,
+	"title": "Beverly Hills Cop III (1994)",
+	"genres": "Action|Comedy|Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6982e"
+	},
+	"": 274,
+	"movieId": 274,
+	"title": "Harry Potter and the Chamber of Secrets (2002)",
+	"genres": "Adventure|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6982f"
+	},
+	"": 276,
+	"movieId": 276,
+	"title": "My Cousin Vinny (1992)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69830"
+	},
+	"": 265,
+	"movieId": 265,
+	"title": "Rocky (1976)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69831"
+	},
+	"": 275,
+	"movieId": 275,
+	"title": "Vertigo (1958)",
+	"genres": "Drama|Mystery|Romance|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69832"
+	},
+	"": 280,
+	"movieId": 280,
+	"title": "Air Force One (1997)",
+	"genres": "Action|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69833"
+	},
+	"": 281,
+	"movieId": 281,
+	"title": "Alien³ (a.k.a. Alien 3) (1992)",
+	"genres": "Action|Horror|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69834"
+	},
+	"": 282,
+	"movieId": 282,
+	"title": "Election (1999)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69835"
+	},
+	"": 283,
+	"movieId": 283,
+	"title": "Pleasantville (1998)",
+	"genres": "Comedy|Drama|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69836"
+	},
+	"": 284,
+	"movieId": 284,
+	"title": "Rocky Horror Picture Show, The (1975)",
+	"genres": "Comedy|Horror|Musical|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69837"
+	},
+	"": 285,
+	"movieId": 285,
+	"title": "RoboCop (1987)",
+	"genres": "Action|Crime|Drama|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69838"
+	},
+	"": 278,
+	"movieId": 278,
+	"title": "Con Air (1997)",
+	"genres": "Action|Adventure|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69839"
+	},
+	"": 279,
+	"movieId": 279,
+	"title": "Talented Mr. Ripley, The (1999)",
+	"genres": "Drama|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6983a"
+	},
+	"": 277,
+	"movieId": 277,
+	"title": "Requiem for a Dream (2000)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6983b"
+	},
+	"": 287,
+	"movieId": 287,
+	"title": "Chasing Amy (1997)",
+	"genres": "Comedy|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6983c"
+	},
+	"": 288,
+	"movieId": 288,
+	"title": "Unbreakable (2000)",
+	"genres": "Drama|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6983d"
+	},
+	"": 290,
+	"movieId": 290,
+	"title": "V for Vendetta (2006)",
+	"genres": "Action|Sci-Fi|Thriller|IMAX"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6983e"
+	},
+	"": 291,
+	"movieId": 291,
+	"title": "Boogie Nights (1997)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6983f"
+	},
+	"": 292,
+	"movieId": 292,
+	"title": "Species (1995)",
+	"genres": "Horror|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69840"
+	},
+	"": 293,
+	"movieId": 293,
+	"title": "Mary Poppins (1964)",
+	"genres": "Children|Comedy|Fantasy|Musical"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69841"
+	},
+	"": 294,
+	"movieId": 294,
+	"title": "Close Encounters of the Third Kind (1977)",
+	"genres": "Adventure|Drama|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69842"
+	},
+	"": 289,
+	"movieId": 289,
+	"title": "Desperado (1995)",
+	"genres": "Action|Romance|Western"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69843"
+	},
+	"": 286,
+	"movieId": 286,
+	"title": "It's a Wonderful Life (1946)",
+	"genres": "Drama|Fantasy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69844"
+	},
+	"": 295,
+	"movieId": 295,
+	"title": "Galaxy Quest (1999)",
+	"genres": "Adventure|Comedy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69845"
+	},
+	"": 296,
+	"movieId": 296,
+	"title": "Wedding Singer, The (1998)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69846"
+	},
+	"": 297,
+	"movieId": 297,
+	"title": "Ransom (1996)",
+	"genres": "Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69847"
+	},
+	"": 301,
+	"movieId": 301,
+	"title": "Bourne Supremacy, The (2004)",
+	"genres": "Action|Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69848"
+	},
+	"": 300,
+	"movieId": 300,
+	"title": "Departed, The (2006)",
+	"genres": "Crime|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69849"
+	},
+	"": 302,
+	"movieId": 302,
+	"title": "Arachnophobia (1990)",
+	"genres": "Comedy|Horror"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6984a"
+	},
+	"": 303,
+	"movieId": 303,
+	"title": "Sleepy Hollow (1999)",
+	"genres": "Fantasy|Horror|Mystery|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6984b"
+	},
+	"": 298,
+	"movieId": 298,
+	"title": "Sound of Music, The (1965)",
+	"genres": "Musical|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6984c"
+	},
+	"": 299,
+	"movieId": 299,
+	"title": "Rushmore (1998)",
+	"genres": "Comedy|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6984d"
+	},
+	"": 305,
+	"movieId": 305,
+	"title": "Spirited Away (Sen to Chihiro no kamikakushi) (2001)",
+	"genres": "Adventure|Animation|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6984e"
+	},
+	"": 304,
+	"movieId": 304,
+	"title": "Wayne's World (1992)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6984f"
+	},
+	"": 306,
+	"movieId": 306,
+	"title": "Rob Roy (1995)",
+	"genres": "Action|Drama|Romance|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69850"
+	},
+	"": 308,
+	"movieId": 308,
+	"title": "Harry Potter and the Prisoner of Azkaban (2004)",
+	"genres": "Adventure|Fantasy|IMAX"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69851"
+	},
+	"": 307,
+	"movieId": 307,
+	"title": "Sabrina (1995)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69852"
+	},
+	"": 311,
+	"movieId": 311,
+	"title": "Hot Shots! Part Deux (1993)",
+	"genres": "Action|Comedy|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69853"
+	},
+	"": 312,
+	"movieId": 312,
+	"title": "Coneheads (1993)",
+	"genres": "Comedy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69854"
+	},
+	"": 309,
+	"movieId": 309,
+	"title": "Romancing the Stone (1984)",
+	"genres": "Action|Adventure|Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69855"
+	},
+	"": 310,
+	"movieId": 310,
+	"title": "Star Trek IV: The Voyage Home (1986)",
+	"genres": "Adventure|Comedy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69856"
+	},
+	"": 313,
+	"movieId": 313,
+	"title": "Royal Tenenbaums, The (2001)",
+	"genres": "Comedy|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69857"
+	},
+	"": 314,
+	"movieId": 314,
+	"title": "Sling Blade (1996)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69858"
+	},
+	"": 315,
+	"movieId": 315,
+	"title": "Inception (2010)",
+	"genres": "Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69859"
+	},
+	"": 319,
+	"movieId": 319,
+	"title": "M*A*S*H (a.k.a. MASH) (1970)",
+	"genres": "Comedy|Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6985a"
+	},
+	"": 320,
+	"movieId": 320,
+	"title": "Boot, Das (Boat, The) (1981)",
+	"genres": "Action|Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6985b"
+	},
+	"": 321,
+	"movieId": 321,
+	"title": "Phenomenon (1996)",
+	"genres": "Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6985c"
+	},
+	"": 322,
+	"movieId": 322,
+	"title": "12 Angry Men (1957)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6985d"
+	},
+	"": 323,
+	"movieId": 323,
+	"title": "Grumpier Old Men (1995)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6985e"
+	},
+	"": 324,
+	"movieId": 324,
+	"title": "Christmas Story, A (1983)",
+	"genres": "Children|Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6985f"
+	},
+	"": 318,
+	"movieId": 318,
+	"title": "Pocahontas (1995)",
+	"genres": "Animation|Children|Drama|Musical|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69860"
+	},
+	"": 317,
+	"movieId": 317,
+	"title": "Lethal Weapon 2 (1989)",
+	"genres": "Action|Comedy|Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69861"
+	},
+	"": 316,
+	"movieId": 316,
+	"title": "From Dusk Till Dawn (1996)",
+	"genres": "Action|Comedy|Horror|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69862"
+	},
+	"": 328,
+	"movieId": 328,
+	"title": "Batman Returns (1992)",
+	"genres": "Action|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69863"
+	},
+	"": 329,
+	"movieId": 329,
+	"title": "Casino Royale (2006)",
+	"genres": "Action|Adventure|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69864"
+	},
+	"": 330,
+	"movieId": 330,
+	"title": "Matrix Revolutions, The (2003)",
+	"genres": "Action|Adventure|Sci-Fi|Thriller|IMAX"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69865"
+	},
+	"": 331,
+	"movieId": 331,
+	"title": "Maltese Falcon, The (1941)",
+	"genres": "Film-Noir|Mystery"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69866"
+	},
+	"": 332,
+	"movieId": 332,
+	"title": "Patriot, The (2000)",
+	"genres": "Action|Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69867"
+	},
+	"": 333,
+	"movieId": 333,
+	"title": "Big Fish (2003)",
+	"genres": "Drama|Fantasy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69868"
+	},
+	"": 326,
+	"movieId": 326,
+	"title": "Notting Hill (1999)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69869"
+	},
+	"": 327,
+	"movieId": 327,
+	"title": "Lawrence of Arabia (1962)",
+	"genres": "Adventure|Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6986a"
+	},
+	"": 335,
+	"movieId": 335,
+	"title": "Last Action Hero (1993)",
+	"genres": "Action|Adventure|Comedy|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6986b"
+	},
+	"": 336,
+	"movieId": 336,
+	"title": "Last of the Mohicans, The (1992)",
+	"genres": "Action|Romance|War|Western"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6986c"
+	},
+	"": 337,
+	"movieId": 337,
+	"title": "Mask of Zorro, The (1998)",
+	"genres": "Action|Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6986d"
+	},
+	"": 338,
+	"movieId": 338,
+	"title": "Fantasia (1940)",
+	"genres": "Animation|Children|Fantasy|Musical"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6986e"
+	},
+	"": 325,
+	"movieId": 325,
+	"title": "Bridge on the River Kwai, The (1957)",
+	"genres": "Adventure|Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6986f"
+	},
+	"": 334,
+	"movieId": 334,
+	"title": "Exorcist, The (1973)",
+	"genres": "Horror|Mystery"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69870"
+	},
+	"": 339,
+	"movieId": 339,
+	"title": "Father of the Bride Part II (1995)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69871"
+	},
+	"": 343,
+	"movieId": 343,
+	"title": "Good Morning, Vietnam (1987)",
+	"genres": "Comedy|Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69872"
+	},
+	"": 344,
+	"movieId": 344,
+	"title": "WALL·E (2008)",
+	"genres": "Adventure|Animation|Children|Romance|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69873"
+	},
+	"": 345,
+	"movieId": 345,
+	"title": "Deep Impact (1998)",
+	"genres": "Drama|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69874"
+	},
+	"": 346,
+	"movieId": 346,
+	"title": "Sneakers (1992)",
+	"genres": "Action|Comedy|Crime|Drama|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69875"
+	},
+	"": 347,
+	"movieId": 347,
+	"title": "City Slickers II: The Legend of Curly's Gold (1994)",
+	"genres": "Adventure|Comedy|Western"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69876"
+	},
+	"": 348,
+	"movieId": 348,
+	"title": "Postman, The (Postino, Il) (1994)",
+	"genres": "Comedy|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69877"
+	},
+	"": 340,
+	"movieId": 340,
+	"title": "Field of Dreams (1989)",
+	"genres": "Children|Drama|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69878"
+	},
+	"": 341,
+	"movieId": 341,
+	"title": "Bowling for Columbine (2002)",
+	"genres": "Documentary"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69879"
+	},
+	"": 342,
+	"movieId": 342,
+	"title": "Star Wars: Episode III - Revenge of the Sith (2005)",
+	"genres": "Action|Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6987a"
+	},
+	"": 350,
+	"movieId": 350,
+	"title": "Johnny Mnemonic (1995)",
+	"genres": "Action|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6987b"
+	},
+	"": 349,
+	"movieId": 349,
+	"title": "Bridget Jones's Diary (2001)",
+	"genres": "Comedy|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6987c"
+	},
+	"": 354,
+	"movieId": 354,
+	"title": "Glory (1989)",
+	"genres": "Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6987d"
+	},
+	"": 355,
+	"movieId": 355,
+	"title": "Tomorrow Never Dies (1997)",
+	"genres": "Action|Adventure|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6987e"
+	},
+	"": 356,
+	"movieId": 356,
+	"title": "Thelma \u0026 Louise (1991)",
+	"genres": "Adventure|Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6987f"
+	},
+	"": 357,
+	"movieId": 357,
+	"title": "City of God (Cidade de Deus) (2002)",
+	"genres": "Action|Adventure|Crime|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69880"
+	},
+	"": 358,
+	"movieId": 358,
+	"title": "Planet of the Apes (1968)",
+	"genres": "Action|Drama|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69881"
+	},
+	"": 359,
+	"movieId": 359,
+	"title": "Crying Game, The (1992)",
+	"genres": "Drama|Romance|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69882"
+	},
+	"": 351,
+	"movieId": 351,
+	"title": "Disclosure (1994)",
+	"genres": "Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69883"
+	},
+	"": 352,
+	"movieId": 352,
+	"title": "First Knight (1995)",
+	"genres": "Action|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69884"
+	},
+	"": 353,
+	"movieId": 353,
+	"title": "Pinocchio (1940)",
+	"genres": "Animation|Children|Fantasy|Musical"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69885"
+	},
+	"": 361,
+	"movieId": 361,
+	"title": "Devil's Advocate, The (1997)",
+	"genres": "Drama|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69886"
+	},
+	"": 362,
+	"movieId": 362,
+	"title": "So I Married an Axe Murderer (1993)",
+	"genres": "Comedy|Romance|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69887"
+	},
+	"": 365,
+	"movieId": 365,
+	"title": "Moulin Rouge (2001)",
+	"genres": "Drama|Musical|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69888"
+	},
+	"": 366,
+	"movieId": 366,
+	"title": "Executive Decision (1996)",
+	"genres": "Action|Adventure|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69889"
+	},
+	"": 367,
+	"movieId": 367,
+	"title": "Three Musketeers, The (1993)",
+	"genres": "Action|Adventure|Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6988a"
+	},
+	"": 368,
+	"movieId": 368,
+	"title": "X-Files: Fight the Future, The (1998)",
+	"genres": "Action|Crime|Mystery|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6988b"
+	},
+	"": 369,
+	"movieId": 369,
+	"title": "28 Days Later (2002)",
+	"genres": "Action|Horror|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6988c"
+	},
+	"": 370,
+	"movieId": 370,
+	"title": "Wallace \u0026 Gromit: A Close Shave (1995)",
+	"genres": "Animation|Children|Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6988d"
+	},
+	"": 363,
+	"movieId": 363,
+	"title": "Shaun of the Dead (2004)",
+	"genres": "Comedy|Horror"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6988e"
+	},
+	"": 364,
+	"movieId": 364,
+	"title": "French Kiss (1995)",
+	"genres": "Action|Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6988f"
+	},
+	"": 372,
+	"movieId": 372,
+	"title": "You've Got Mail (1998)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69890"
+	},
+	"": 373,
+	"movieId": 373,
+	"title": "Crocodile Dundee (1986)",
+	"genres": "Adventure|Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69891"
+	},
+	"": 360,
+	"movieId": 360,
+	"title": "Army of Darkness (1993)",
+	"genres": "Action|Adventure|Comedy|Fantasy|Horror"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69892"
+	},
+	"": 371,
+	"movieId": 371,
+	"title": "Thomas Crown Affair, The (1999)",
+	"genres": "Action|Mystery"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69893"
+	},
+	"": 374,
+	"movieId": 374,
+	"title": "Rumble in the Bronx (Hont faan kui) (1995)",
+	"genres": "Action|Adventure|Comedy|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69894"
+	},
+	"": 375,
+	"movieId": 375,
+	"title": "Little Miss Sunshine (2006)",
+	"genres": "Adventure|Comedy|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69895"
+	},
+	"": 377,
+	"movieId": 377,
+	"title": "Casper (1995)",
+	"genres": "Adventure|Children"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69896"
+	},
+	"": 378,
+	"movieId": 378,
+	"title": "Three Kings (1999)",
+	"genres": "Action|Adventure|Comedy|Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69897"
+	},
+	"": 380,
+	"movieId": 380,
+	"title": "Cool Hand Luke (1967)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69898"
+	},
+	"": 376,
+	"movieId": 376,
+	"title": "Magnolia (1999)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69899"
+	},
+	"": 379,
+	"movieId": 379,
+	"title": "Nell (1994)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6989a"
+	},
+	"": 381,
+	"movieId": 381,
+	"title": "Blade (1998)",
+	"genres": "Action|Horror|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6989b"
+	},
+	"": 382,
+	"movieId": 382,
+	"title": "Spaceballs (1987)",
+	"genres": "Comedy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6989c"
+	},
+	"": 383,
+	"movieId": 383,
+	"title": "Time to Kill, A (1996)",
+	"genres": "Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6989d"
+	},
+	"": 384,
+	"movieId": 384,
+	"title": "Wild Wild West (1999)",
+	"genres": "Action|Comedy|Sci-Fi|Western"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6989e"
+	},
+	"": 388,
+	"movieId": 388,
+	"title": "Dirty Dancing (1987)",
+	"genres": "Drama|Musical|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6989f"
+	},
+	"": 389,
+	"movieId": 389,
+	"title": "Dark City (1998)",
+	"genres": "Adventure|Film-Noir|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698a0"
+	},
+	"": 390,
+	"movieId": 390,
+	"title": "Basic Instinct (1992)",
+	"genres": "Crime|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698a1"
+	},
+	"": 385,
+	"movieId": 385,
+	"title": "Jackie Brown (1997)",
+	"genres": "Crime|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698a2"
+	},
+	"": 386,
+	"movieId": 386,
+	"title": "Splash (1984)",
+	"genres": "Comedy|Fantasy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698a3"
+	},
+	"": 391,
+	"movieId": 391,
+	"title": "Muriel's Wedding (1994)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698a4"
+	},
+	"": 393,
+	"movieId": 393,
+	"title": "Goldfinger (1964)",
+	"genres": "Action|Adventure|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698a5"
+	},
+	"": 392,
+	"movieId": 392,
+	"title": "10 Things I Hate About You (1999)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698a6"
+	},
+	"": 387,
+	"movieId": 387,
+	"title": "Like Water for Chocolate (Como agua para chocolate) (1992)",
+	"genres": "Drama|Fantasy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698a7"
+	},
+	"": 394,
+	"movieId": 394,
+	"title": "Donnie Brasco (1997)",
+	"genres": "Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698a8"
+	},
+	"": 395,
+	"movieId": 395,
+	"title": "A.I. Artificial Intelligence (2001)",
+	"genres": "Adventure|Drama|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698a9"
+	},
+	"": 397,
+	"movieId": 397,
+	"title": "Birds, The (1963)",
+	"genres": "Horror|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698aa"
+	},
+	"": 400,
+	"movieId": 400,
+	"title": "Heathers (1989)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698ab"
+	},
+	"": 396,
+	"movieId": 396,
+	"title": "Highlander (1986)",
+	"genres": "Action|Adventure|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698ac"
+	},
+	"": 398,
+	"movieId": 398,
+	"title": "Pan's Labyrinth (Laberinto del fauno, El) (2006)",
+	"genres": "Drama|Fantasy|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698ad"
+	},
+	"": 402,
+	"movieId": 402,
+	"title": "Iron Man (2008)",
+	"genres": "Action|Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698ae"
+	},
+	"": 403,
+	"movieId": 403,
+	"title": "Alien: Resurrection (1997)",
+	"genres": "Action|Horror|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698af"
+	},
+	"": 399,
+	"movieId": 399,
+	"title": "Bad Boys (1995)",
+	"genres": "Action|Comedy|Crime|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698b0"
+	},
+	"": 406,
+	"movieId": 406,
+	"title": "Great Escape, The (1963)",
+	"genres": "Action|Adventure|Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698b1"
+	},
+	"": 407,
+	"movieId": 407,
+	"title": "Seven Samurai (Shichinin no samurai) (1954)",
+	"genres": "Action|Adventure|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698b2"
+	},
+	"": 408,
+	"movieId": 408,
+	"title": "Specialist, The (1994)",
+	"genres": "Action|Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698b3"
+	},
+	"": 409,
+	"movieId": 409,
+	"title": "Star Trek VI: The Undiscovered Country (1991)",
+	"genres": "Action|Mystery|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698b4"
+	},
+	"": 410,
+	"movieId": 410,
+	"title": "Cocoon (1985)",
+	"genres": "Comedy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698b5"
+	},
+	"": 404,
+	"movieId": 404,
+	"title": "Witness (1985)",
+	"genres": "Drama|Romance|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698b6"
+	},
+	"": 405,
+	"movieId": 405,
+	"title": "Animal House (1978)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698b7"
+	},
+	"": 411,
+	"movieId": 411,
+	"title": "Gremlins (1984)",
+	"genres": "Comedy|Horror"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698b8"
+	},
+	"": 401,
+	"movieId": 401,
+	"title": "Some Like It Hot (1959)",
+	"genres": "Comedy|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698b9"
+	},
+	"": 415,
+	"movieId": 415,
+	"title": "Wag the Dog (1997)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698ba"
+	},
+	"": 416,
+	"movieId": 416,
+	"title": "Primal Fear (1996)",
+	"genres": "Crime|Drama|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698bb"
+	},
+	"": 417,
+	"movieId": 417,
+	"title": "My Big Fat Greek Wedding (2002)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698bc"
+	},
+	"": 414,
+	"movieId": 414,
+	"title": "Signs (2002)",
+	"genres": "Horror|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698bd"
+	},
+	"": 418,
+	"movieId": 418,
+	"title": "River Wild, The (1994)",
+	"genres": "Action|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698be"
+	},
+	"": 419,
+	"movieId": 419,
+	"title": "Nine Months (1995)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698bf"
+	},
+	"": 413,
+	"movieId": 413,
+	"title": "Ice Age (2002)",
+	"genres": "Adventure|Animation|Children|Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698c0"
+	},
+	"": 412,
+	"movieId": 412,
+	"title": "Hudsucker Proxy, The (1994)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698c1"
+	},
+	"": 420,
+	"movieId": 420,
+	"title": "Blazing Saddles (1974)",
+	"genres": "Comedy|Western"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698c2"
+	},
+	"": 424,
+	"movieId": 424,
+	"title": "Star Trek III: The Search for Spock (1984)",
+	"genres": "Action|Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698c3"
+	},
+	"": 425,
+	"movieId": 425,
+	"title": "Kingpin (1996)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698c4"
+	},
+	"": 422,
+	"movieId": 422,
+	"title": "Goonies, The (1985)",
+	"genres": "Action|Adventure|Children|Comedy|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698c5"
+	},
+	"": 421,
+	"movieId": 421,
+	"title": "Dracula (Bram Stoker's Dracula) (1992)",
+	"genres": "Fantasy|Horror|Romance|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698c6"
+	},
+	"": 426,
+	"movieId": 426,
+	"title": "Tommy Boy (1995)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698c7"
+	},
+	"": 427,
+	"movieId": 427,
+	"title": "African Queen, The (1951)",
+	"genres": "Adventure|Comedy|Romance|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698c8"
+	},
+	"": 428,
+	"movieId": 428,
+	"title": "Tin Cup (1996)",
+	"genres": "Comedy|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698c9"
+	},
+	"": 423,
+	"movieId": 423,
+	"title": "Prestige, The (2006)",
+	"genres": "Drama|Mystery|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698ca"
+	},
+	"": 429,
+	"movieId": 429,
+	"title": "NeverEnding Story, The (1984)",
+	"genres": "Adventure|Children|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698cb"
+	},
+	"": 431,
+	"movieId": 431,
+	"title": "Chocolat (2000)",
+	"genres": "Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698cc"
+	},
+	"": 434,
+	"movieId": 434,
+	"title": "Bourne Ultimatum, The (2007)",
+	"genres": "Action|Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698cd"
+	},
+	"": 430,
+	"movieId": 430,
+	"title": "300 (2007)",
+	"genres": "Action|Fantasy|War|IMAX"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698ce"
+	},
+	"": 432,
+	"movieId": 432,
+	"title": "Conspiracy Theory (1997)",
+	"genres": "Drama|Mystery|Romance|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698cf"
+	},
+	"": 433,
+	"movieId": 433,
+	"title": "Deer Hunter, The (1978)",
+	"genres": "Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698d0"
+	},
+	"": 435,
+	"movieId": 435,
+	"title": "Scarface (1983)",
+	"genres": "Action|Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698d1"
+	},
+	"": 439,
+	"movieId": 439,
+	"title": "Juno (2007)",
+	"genres": "Comedy|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698d2"
+	},
+	"": 437,
+	"movieId": 437,
+	"title": "Lady and the Tramp (1955)",
+	"genres": "Animation|Children|Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698d3"
+	},
+	"": 441,
+	"movieId": 441,
+	"title": "Singin' in the Rain (1952)",
+	"genres": "Comedy|Musical|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698d4"
+	},
+	"": 442,
+	"movieId": 442,
+	"title": "Perfect Storm, The (2000)",
+	"genres": "Drama|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698d5"
+	},
+	"": 436,
+	"movieId": 436,
+	"title": "Searching for Bobby Fischer (1993)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698d6"
+	},
+	"": 444,
+	"movieId": 444,
+	"title": "Bowfinger (1999)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698d7"
+	},
+	"": 445,
+	"movieId": 445,
+	"title": "Copycat (1995)",
+	"genres": "Crime|Drama|Horror|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698d8"
+	},
+	"": 446,
+	"movieId": 446,
+	"title": "Tron (1982)",
+	"genres": "Action|Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698d9"
+	},
+	"": 440,
+	"movieId": 440,
+	"title": "My Best Friend's Wedding (1997)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698da"
+	},
+	"": 438,
+	"movieId": 438,
+	"title": "Little Women (1994)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698db"
+	},
+	"": 443,
+	"movieId": 443,
+	"title": "Mortal Kombat (1995)",
+	"genres": "Action|Adventure|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698dc"
+	},
+	"": 447,
+	"movieId": 447,
+	"title": "Last Samurai, The (2003)",
+	"genres": "Action|Adventure|Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698dd"
+	},
+	"": 448,
+	"movieId": 448,
+	"title": "Godfather: Part III, The (1990)",
+	"genres": "Crime|Drama|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698de"
+	},
+	"": 449,
+	"movieId": 449,
+	"title": "Space Jam (1996)",
+	"genres": "Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698df"
+	},
+	"": 450,
+	"movieId": 450,
+	"title": "Junior (1994)",
+	"genres": "Comedy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698e0"
+	},
+	"": 451,
+	"movieId": 451,
+	"title": "Hoop Dreams (1994)",
+	"genres": "Documentary"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698e1"
+	},
+	"": 452,
+	"movieId": 452,
+	"title": "Adventures of Priscilla, Queen of the Desert, The (1994)",
+	"genres": "Comedy|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698e2"
+	},
+	"": 453,
+	"movieId": 453,
+	"title": "Black Hawk Down (2001)",
+	"genres": "Action|Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698e3"
+	},
+	"": 455,
+	"movieId": 455,
+	"title": "League of Their Own, A (1992)",
+	"genres": "Comedy|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698e4"
+	},
+	"": 454,
+	"movieId": 454,
+	"title": "Brady Bunch Movie, The (1995)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698e5"
+	},
+	"": 459,
+	"movieId": 459,
+	"title": "William Shakespeare's Romeo + Juliet (1996)",
+	"genres": "Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698e6"
+	},
+	"": 460,
+	"movieId": 460,
+	"title": "Ring, The (2002)",
+	"genres": "Horror|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698e7"
+	},
+	"": 461,
+	"movieId": 461,
+	"title": "Star Trek: The Motion Picture (1979)",
+	"genres": "Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698e8"
+	},
+	"": 462,
+	"movieId": 462,
+	"title": "My Fair Lady (1964)",
+	"genres": "Comedy|Drama|Musical|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698e9"
+	},
+	"": 463,
+	"movieId": 463,
+	"title": "I.Q. (1994)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698ea"
+	},
+	"": 464,
+	"movieId": 464,
+	"title": "Best in Show (2000)",
+	"genres": "Comedy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698eb"
+	},
+	"": 465,
+	"movieId": 465,
+	"title": "Others, The (2001)",
+	"genres": "Drama|Horror|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698ec"
+	},
+	"": 456,
+	"movieId": 456,
+	"title": "Beverly Hills Cop (1984)",
+	"genres": "Action|Comedy|Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698ed"
+	},
+	"": 466,
+	"movieId": 466,
+	"title": "Remains of the Day, The (1993)",
+	"genres": "Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698ee"
+	},
+	"": 457,
+	"movieId": 457,
+	"title": "Breakfast at Tiffany's (1961)",
+	"genres": "Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698ef"
+	},
+	"": 467,
+	"movieId": 467,
+	"title": "Antz (1998)",
+	"genres": "Adventure|Animation|Children|Comedy|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698f0"
+	},
+	"": 468,
+	"movieId": 468,
+	"title": "Pianist, The (2002)",
+	"genres": "Drama|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698f1"
+	},
+	"": 458,
+	"movieId": 458,
+	"title": "Fly, The (1986)",
+	"genres": "Drama|Horror|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698f2"
+	},
+	"": 469,
+	"movieId": 469,
+	"title": "Italian Job, The (2003)",
+	"genres": "Action|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698f3"
+	},
+	"": 470,
+	"movieId": 470,
+	"title": "Bridges of Madison County, The (1995)",
+	"genres": "Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698f4"
+	},
+	"": 472,
+	"movieId": 472,
+	"title": "Flintstones, The (1994)",
+	"genres": "Children|Comedy|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698f5"
+	},
+	"": 475,
+	"movieId": 475,
+	"title": "Miss Congeniality (2000)",
+	"genres": "Comedy|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698f6"
+	},
+	"": 476,
+	"movieId": 476,
+	"title": "I, Robot (2004)",
+	"genres": "Action|Adventure|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698f7"
+	},
+	"": 477,
+	"movieId": 477,
+	"title": "Adaptation (2002)",
+	"genres": "Comedy|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698f8"
+	},
+	"": 478,
+	"movieId": 478,
+	"title": "Gone in 60 Seconds (2000)",
+	"genres": "Action|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698f9"
+	},
+	"": 479,
+	"movieId": 479,
+	"title": "Gandhi (1982)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698fa"
+	},
+	"": 480,
+	"movieId": 480,
+	"title": "Willow (1988)",
+	"genres": "Action|Adventure|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698fb"
+	},
+	"": 473,
+	"movieId": 473,
+	"title": "Ronin (1998)",
+	"genres": "Action|Crime|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698fc"
+	},
+	"": 471,
+	"movieId": 471,
+	"title": "Harry Potter and the Goblet of Fire (2005)",
+	"genres": "Adventure|Fantasy|Thriller|IMAX"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698fd"
+	},
+	"": 483,
+	"movieId": 483,
+	"title": "No Country for Old Men (2007)",
+	"genres": "Crime|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698fe"
+	},
+	"": 484,
+	"movieId": 484,
+	"title": "Cinema Paradiso (Nuovo cinema Paradiso) (1989)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c698ff"
+	},
+	"": 485,
+	"movieId": 485,
+	"title": "Pi (1998)",
+	"genres": "Drama|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69900"
+	},
+	"": 482,
+	"movieId": 482,
+	"title": "40-Year-Old Virgin, The (2005)",
+	"genres": "Comedy|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69901"
+	},
+	"": 486,
+	"movieId": 486,
+	"title": "Mulholland Drive (2001)",
+	"genres": "Crime|Drama|Film-Noir|Mystery|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69902"
+	},
+	"": 481,
+	"movieId": 481,
+	"title": "James and the Giant Peach (1996)",
+	"genres": "Adventure|Animation|Children|Fantasy|Musical"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69903"
+	},
+	"": 487,
+	"movieId": 487,
+	"title": "Dune (1984)",
+	"genres": "Adventure|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69904"
+	},
+	"": 488,
+	"movieId": 488,
+	"title": "Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002)",
+	"genres": "Action|Comedy|Sci-Fi"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69905"
+	},
+	"": 474,
+	"movieId": 474,
+	"title": "Swingers (1996)",
+	"genres": "Comedy|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69906"
+	},
+	"": 489,
+	"movieId": 489,
+	"title": "Pirates of the Caribbean: Dead Man's Chest (2006)",
+	"genres": "Action|Adventure|Fantasy"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69907"
+	},
+	"": 493,
+	"movieId": 493,
+	"title": "Up (2009)",
+	"genres": "Adventure|Animation|Children|Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69908"
+	},
+	"": 494,
+	"movieId": 494,
+	"title": "School of Rock (2003)",
+	"genres": "Comedy|Musical"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69909"
+	},
+	"": 495,
+	"movieId": 495,
+	"title": "Striptease (1996)",
+	"genres": "Comedy|Crime"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6990a"
+	},
+	"": 496,
+	"movieId": 496,
+	"title": "Femme Nikita, La (Nikita) (1990)",
+	"genres": "Action|Crime|Romance|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6990b"
+	},
+	"": 497,
+	"movieId": 497,
+	"title": "Manchurian Candidate, The (1962)",
+	"genres": "Crime|Thriller|War"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6990c"
+	},
+	"": 498,
+	"movieId": 498,
+	"title": "Strange Days (1995)",
+	"genres": "Action|Crime|Drama|Mystery|Sci-Fi|Thriller"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6990d"
+	},
+	"": 490,
+	"movieId": 490,
+	"title": "About a Boy (2002)",
+	"genres": "Comedy|Drama|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6990e"
+	},
+	"": 491,
+	"movieId": 491,
+	"title": "Hunchback of Notre Dame, The (1996)",
+	"genres": "Animation|Children|Drama|Musical|Romance"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c6990f"
+	},
+	"": 492,
+	"movieId": 492,
+	"title": "In the Name of the Father (1993)",
+	"genres": "Drama"
+},
+{
+	"_id": {
+		"$oid": "5c5fc9a63805e9dce1c69910"
+	},
+	"": 499,
+	"movieId": 499,
+	"title": "Ben-Hur (1959)",
+	"genres": "Action|Adventure|Drama"
+}]
+

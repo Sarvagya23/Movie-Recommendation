@@ -1,0 +1,25 @@
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<!DOCTYPE html>
+<html lang="en">
+<title>Prediction Results</title>
+        	 	<link rel="stylesheet" media="screen" href="static/bootstrap.min.css">
+        	 	<link rel="stylesheet" href="static/bootstrap-theme.min.css">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <style>
+     body{
+     	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsp9XR6ZhrfdAhLZ5FXszI_d3oF636ydVcJPFGq3ro-QKbVwHewA);
+     	height: 100%;
+     	width:100%;
+     }
+ </style>
+
+<!-- <div id="destination_div1">{{ result1 }}</div>
+<div id="destination_div2">{{ result2 }}</div>
+<div id="destination_div3">{{ result3 }}</div> -->
+
+ <div id="destination_div1"><h1>User-User Collaborative Filtering Results:</h1>{% for result in result1 %} {{ result }} <br> {% endfor %}</div>
+ <div id="destination_div2"><h1>Item-Item Collaborative Filtering Results:</h1>{% for result in result2 %} {{ result }} <br> {% endfor %}</div>
+ <div id="destination_div3"><h1>Matrix-Factorization Results:</h1>{% for result in result3 %} {{ result }} <br> {% endfor %}</div>

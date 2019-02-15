@@ -1,0 +1,97 @@
+<!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css"> -->
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<!DOCTYPE html>
+<html lang="en">
+<title>Reusable Form Demo</title>
+        	 	<link rel="stylesheet" media="screen" href="static/bootstrap.min.css">
+        	 	<link rel="stylesheet" href="static/bootstrap-theme.min.css">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <style>
+     body{
+     	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsp9XR6ZhrfdAhLZ5FXszI_d3oF636ydVcJPFGq3ro-QKbVwHewA);
+     	height: 100%;
+     	width:100%;
+     }
+ </style>
+<body>
+
+
+<div class="container">
+<h2>Flask Web Form</h2>
+<form action="" method="post" role="form">
+    {{ form.csrf }}
+<div class="form-group">
+      <label for="name1">Movie 1: {{ first_15_names[0] }}<br>  </label>
+	  <input type="number" class="form-control" id="name1" name="name1" min="1" max="5" placeholder="Rating" >
+	  <br>		
+	  <label for="name2">Movie 2: {{ first_15_names[1] }}<br>  </label>
+	  <input type="number" class="form-control" id="name2" name="name2" min="1" max="5" placeholder="Rating" >
+	  <br>
+	  <label for="name3">Movie 3: {{ first_15_names[2] }}<br>  </label>
+	  <input type="number" class="form-control" id="name3" name="name3" min="1" max="5" placeholder="Rating" >
+	  <br>
+	  <label for="name4">Movie 4: {{ first_15_names[3] }}<br>  </label>
+	  <input type="number" class="form-control" id="name4" name="name4" min="1" max="5" placeholder="Rating" >
+	  <br>
+	  <label for="name5">Movie 5: {{ first_15_names[4] }}<br>  </label>
+	  <input type="number" class="form-control" id="name5" name="name5" min="1" max="5" placeholder="Rating" >
+	  <br>
+	  <label for="name6">Movie 6: {{ first_15_names[5] }}<br>  </label>
+	  <input type="number" class="form-control" id="name6" name="name6" min="1" max="5" placeholder="Rating" >
+	  <br>
+	  <label for="name7">Movie 7: {{ first_15_names[6] }}<br>  </label>
+	  <input type="number" class="form-control" id="name7" name="name7" min="1" max="5" placeholder="Rating" >
+	  <br>
+	  <label for="name8">Movie 8: {{ first_15_names[7] }}<br>  </label>
+	  <input type="number" class="form-control" id="name8" name="name8" min="1" max="5" placeholder="Rating" >
+	  <br>
+	  <label for="name9">Movie 9: {{ first_15_names[8] }}<br>  </label>
+	  <input type="number" class="form-control" id="name9" name="name9" min="1" max="5" placeholder="Rating" >
+	  <br>
+	  <label for="name10">Movie 10: {{ first_15_names[9] }}<br> </label>
+	  <input type="number" class="form-control" id="name10" name="name10" min="1" max="5" placeholder="Rating" >
+	  <br>
+	  <label for="name11">Movie 11: {{ first_15_names[10] }}<br> </label>
+	  <input type="number" class="form-control" id="name11" name="name11" min="1" max="5" placeholder="Rating" >
+	  <br>
+	  <label for="name12">Movie 12: {{ first_15_names[11] }}<br> </label>
+	  <input type="number" class="form-control" id="name12" name="name12" min="1" max="5" placeholder="Rating" >
+	  <br>
+	  <label for="name13">Movie 13: {{ first_15_names[12] }}<br> </label>
+	  <input type="number" class="form-control" id="name13" name="name13" min="1" max="5" placeholder="Rating" >
+	  <br>
+	  <label for="name14">Movie 14: {{ first_15_names[13] }}<br> </label>
+	  <input type="number" class="form-control" id="name14" name="name14" min="1" max="5" placeholder="Rating" >
+	  <br>
+	  <label for="name15">Movie 15: {{ first_15_names[14] }}<br> </label>
+	  <input type="number" class="form-control" id="name15" name="name15" min="1" max="5" placeholder="Rating" >
+ 	  <br>
+ 	  <br>
+</div>
+<button type="submit" class="btn btn-success">Check Recommendations</button>
+<!-- <form> -->
+<!-- <input type="button" value="Check Recommendations" onclick="window.location.href='predictions'" /> -->
+<!-- </form> -->
+</form>{% with messages = get_flashed_messages(with_categories=true) %}
+{% if messages %}
+ 
+{% for message in messages %}
+{% if "Error" not in message[1]: %}
+<div class="alert alert-info">
+                <strong>Success! </strong> {{ message[1] }}</div>
+{% endif %}
+ 
+{% if "Error" in message[1]: %}
+<div class="alert alert-warning">
+                {{ message[1] }}</div>
+{% endif %}
+{% endfor %}
+{% endif %}
+{% endwith %}
+ 
+</div>
+</body>
+</html>
