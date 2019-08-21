@@ -19,7 +19,7 @@ final_user_ratings2 = []
 final_user_ratings3 = []
 
 # client = MongoClient('localhost' , 27017)
-client = MongoClient("mongodb+srv://sarvagya23:sarvo44455@cluster1-st6po.mongodb.net/admin")
+client = MongoClient("mongodb+srv://username:password@cluster1-st6po.mongodb.net/admin")
 
 app.debug = True
 
