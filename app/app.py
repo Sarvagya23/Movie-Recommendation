@@ -12,14 +12,14 @@ rrr = np.zeros(15)
 DEBUG = True
 app = Flask(__name__)
 app.config.from_object(__name__)
-app.config['SECRET_KEY'] = '7d441f27d441f27567d441f2b6176a'
+app.config['SECRET_KEY'] = '7d441f27d441f27567hkhjghjf45'
 
 final_user_ratings1 = []
 final_user_ratings2 = []
 final_user_ratings3 = []
 
 # client = MongoClient('localhost' , 27017)
-client = MongoClient("mongodb+srv://username:password@cluster1-st6po.mongodb.net/admin")
+client = MongoClient("mongodb+srv://username:password@cluster1-st6po.mongodb.net/xxx")
 
 app.debug = True
 
